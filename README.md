@@ -5,7 +5,7 @@
 
 ## Índice
 
-# Descrição do Proeto
+# Descrição do Projeto
 
 Um protótipo de Braço Robótico com sensor de cor feito utilizando arduino. O mecanismo desenvolvido permite que o braço robotico organize objetos por cor.
 
